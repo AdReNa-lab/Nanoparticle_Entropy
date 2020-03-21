@@ -1,1 +1,1 @@
-# Nanoparticle_Entropy
+# Nanoparticle Entropy - Excel Macro Tutorial
