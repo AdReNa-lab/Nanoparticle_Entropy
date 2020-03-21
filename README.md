@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/Nanoparticle_Entropy/Matlab-GUI/Figure/ML1.png?token=ALJSGH5AJMIHXHLX5WRMJDK6O2CQQ" width="600">
+    <img src="https://raw.githubusercontent.com/adrena-lab/Nanoparticle_Entropy/Matlab-GUI/Figure/ML1.png?token=ALJSGH5AJMIHXHLX5WRMJDK6O2CQQ" width="800">
 </p>
 
 <p align="center">
