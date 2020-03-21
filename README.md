@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/Nanoparticle_Entropy/Excel-Macro/Figures/Excel1.png?token=ALJSGH44K5LRD4ND2NP6LRK6OZT4C" width="600">
+    <img src="https://raw.githubusercontent.com/adrena-lab/Nanoparticle_Entropy/Excel-Macro/Figures/Excel1.png?token=ALJSGH6DNQVKXA4WBGOAXXK6OZUL6" width="600">
 </p>
 
 <p align="center">
