@@ -2,11 +2,11 @@
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/Nanoparticle_Entropy/Excel-Macro/Figures/Excel1.png?token=ALJSGH3SMRFXDOE3JXH6SP26PD7KE" width="800">
+    <img src="https://raw.githubusercontent.com/adrena-lab/Nanoparticle_Entropy/Excel-Macro/Figures/Excel1.png" width="800">
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/Nanoparticle_Entropy/Excel-Macro/Figures/Excel2.png?token=ALJSGH6L2GYUG4UYH34NNIS6O2DAW" width="500">
+    <img src="https://raw.githubusercontent.com/adrena-lab/Nanoparticle_Entropy/Excel-Macro/Figures/Excel2.png" width="500">
 </p>
 
 <p align="center">
