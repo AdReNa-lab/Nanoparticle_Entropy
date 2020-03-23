@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/adrena-lab/Nanoparticle_Entropy/Excel-Macro/Figures/Excel2.png" width="500">
+    <img src="Figures/Excel2.png" width="500">
 </p>
 
 <p align="center">
